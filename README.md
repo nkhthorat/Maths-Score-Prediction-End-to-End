@@ -29,3 +29,6 @@ We compare the performance of each algorithm using the R2 score and select the b
 After selecting the best algorithm, we train the final model using Linear Regression and save it for future use. This ensures that the trained model can be deployed and utilized efficiently.
 ## User Interface: 
 To make our software accessible to users, we have developed a simple HTML page. This page allows users to input parameters and receive predictions for mathematics scores based on the trained model.
+
+<img width="1118" alt="image" src="https://github.com/nkhthorat/mlproject/assets/50617471/416cb2d9-4b67-4079-8de0-848001acfa48">
+
